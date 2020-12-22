@@ -12,7 +12,7 @@ int main() {
 
     if (Ax == Bx && Ay == By) {
         std::cout << "Точка.\n";
-        return 2;
+        return 0;
     }
 
     if (Ax == Bx) {
