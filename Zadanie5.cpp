@@ -28,4 +28,6 @@ int main() {
     double b = (-k*Ax + Ay);
 
     std::cout << "y=" << k << "x+("<<b<<")\n";
+    
+    return 0;
 }
